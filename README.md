@@ -12,7 +12,7 @@ Als opdracht kregen wij om website te bouwen waarbij je een verzamling van visit
 - CSS
 
 ## 🎓💻Teamleden
-- Anouk Bruin (@anoukbruin) 
+- Anouk Bruin (@anoukbruinn) 
 - Danique de Jong (@daniquedejong)
 - Marco Kosters (@kosterm14)
 - Eliza Lacroes (@moonlightlizaa)
