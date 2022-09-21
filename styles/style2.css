@@ -27,6 +27,13 @@ header {
   text-align: center;
 }
 
+/* MOBIEL FORMAAT */
+@media screen and (max-width: 480px) {
+  header{
+    font-size: 0.5em;
+  }
+}
+
 header li {
   list-style: none;
   display: inline-block;
